@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/drawable/characters.xml" value="0.2703125" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/characters_list_item.xml" value="0.264" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/dropdown_item.xml" value="0.264" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/episodes_list_item.xml" value="0.21240942028985507" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_character_details.xml" value="0.1" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_characters.xml" value="0.1" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_episode_details.xml" value="0.21240942028985507" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_episodes.xml" value="0.2346014492753623" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_filter.xml" value="0.264" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_location.xml" value="0.2346014492753623" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_location_details.xml" value="0.264" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_locations.xml" value="0.20108695652173914" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/fragment_search.xml" value="0.2346014492753623" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/list_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/layout/locations_list_item.xml" value="0.21240942028985507" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/programming/android projects/RickAndMorty/app/src/main/res/menu/search_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

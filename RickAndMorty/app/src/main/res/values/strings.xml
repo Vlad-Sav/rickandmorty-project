@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string-array name="status_filter">
+        <item></item>
+        <item>Alive</item>
+        <item>Dead</item>
+    </string-array>
+    <string-array name="gender_filter">
+        <item></item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Genderless</item>
+    </string-array>
+
+</resources>
